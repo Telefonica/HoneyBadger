@@ -22,13 +22,13 @@ pip3 install -r requirements.txt
 If is still not working probably your python installation is not working properly, try the following command to see if now works:
 
 ```console
-python pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 or
 
 ```console
-python3 pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 
 ## Options
